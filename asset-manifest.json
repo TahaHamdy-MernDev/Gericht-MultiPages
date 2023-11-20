@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gericht-MultiPages/static/css/main.f021086f.css",
-    "main.js": "/Gericht-MultiPages/static/js/main.cde89e05.js",
+    "main.js": "/Gericht-MultiPages/static/js/main.0c0d747e.js",
     "static/js/415.a34fc522.chunk.js": "/Gericht-MultiPages/static/js/415.a34fc522.chunk.js",
     "static/js/183.f9aa97ba.chunk.js": "/Gericht-MultiPages/static/js/183.f9aa97ba.chunk.js",
     "static/js/20.9eaa2158.chunk.js": "/Gericht-MultiPages/static/js/20.9eaa2158.chunk.js",
@@ -113,7 +113,7 @@
     "index.html": "/Gericht-MultiPages/index.html",
     "static/media/spoon.svg": "/Gericht-MultiPages/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.f021086f.css.map": "/Gericht-MultiPages/static/css/main.f021086f.css.map",
-    "main.cde89e05.js.map": "/Gericht-MultiPages/static/js/main.cde89e05.js.map",
+    "main.0c0d747e.js.map": "/Gericht-MultiPages/static/js/main.0c0d747e.js.map",
     "415.a34fc522.chunk.js.map": "/Gericht-MultiPages/static/js/415.a34fc522.chunk.js.map",
     "183.f9aa97ba.chunk.js.map": "/Gericht-MultiPages/static/js/183.f9aa97ba.chunk.js.map",
     "20.9eaa2158.chunk.js.map": "/Gericht-MultiPages/static/js/20.9eaa2158.chunk.js.map",
@@ -142,6 +142,6 @@
   },
   "entrypoints": [
     "static/css/main.f021086f.css",
-    "static/js/main.cde89e05.js"
+    "static/js/main.0c0d747e.js"
   ]
 }
