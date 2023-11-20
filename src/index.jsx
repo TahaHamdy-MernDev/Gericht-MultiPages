@@ -18,7 +18,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 //  basename={'/Home'}
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={'/'}>
+    <BrowserRouter basename={'/Gericht-MultiPages/'}>
      <App />
     </BrowserRouter> 
   </React.StrictMode>
