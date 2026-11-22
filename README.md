@@ -1,12 +1,31 @@
-# Gericht | Restaurent Website built with React JS
-- This is a simple and modern style restaurant website built with React JS and Pure HTML,HTML5,CSS, CSS3. It is a Multi pages website with many different sections & Pages available which can be navigated via the navbar on top. This app is also fully mobile responsive.
+# Gericht — Multi-Page Restaurant Website
 
-![screencapture-tahahamdy-merndev-githu000b-io-Gericht-MultiPages-2023-11-20-21_33_55](https://github.com/TahaHamdy-MernDev/Gericht-MultiPages/assets/104000401/0b80d17b-ea76-4869-8dd6-8687b43b6e23)
+My first **Figma-to-code** project: a modern, responsive, multi-page fine-dining restaurant web application built with React 18, React Router, and BEM CSS.
 
-## Key Implementation:
-- React functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties (Flex & Grid)
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+![Gericht Restaurant Preview](https://github.com/TahaHamdy-MernDev/Gericht-MultiPages/assets/104000401/0b80d17b-ea76-4869-8dd6-8687b43b6e23)
+
+## Highlights
+
+- **Figma-to-Code Implementation**: Translated from a full multi-page Figma design into reusable React functional components.
+- **Multi-Page Navigation**: Client-side routing via `react-router-dom` across Home, About Us, Menu, Blogs, Awards, FAQ, Contact, and User Profile views.
+- **Responsive Layout & Styling**: Built with pure CSS (Flexbox, CSS Grid, BEM methodology, and media queries) plus scroll animations (`aos`) and carousels (`react-slick`).
+- **Interactive Forms**: Form validation and contact workflows powered by `react-hook-form`, `formik`, and `@emailjs/browser`.
+
+## Tech Stack
+
+- **Frontend**: React 18, React Router v6
+- **Styling & Motion**: CSS3 (BEM, Flexbox, Grid), AOS, Slick Carousel, React Icons
+- **Forms & Email**: React Hook Form, Formik, EmailJS
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## License
+
+MIT
